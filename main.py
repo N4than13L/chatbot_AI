@@ -1,0 +1,1 @@
+print("hola mundo para agente de IA con python")
